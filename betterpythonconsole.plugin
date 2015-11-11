@@ -1,10 +1,10 @@
 [Plugin]
-Loader=python
+Loader=python3
 Module=betterpythonconsole
 IAge=3
 Name=Better Python Console
 Description=A python console in the style of IDLE.
 Icon=gnome-mime-text-x-python
-Authors=Zeth Green, Jono Finger <jono@foodnotblogs.com>
+Authors=Zeth Green, Jono Finger <jono@foodnotblogs.com>, Jacek Pliszka
 Copyright=Copyright © 2006-7 Zeth Green, © 2012 Jono Finger
-Website=http://www.pywm.eu
+Website=https://wiki.gnome.org/Apps/Gedit/Plugins/BetterPythonConsole
